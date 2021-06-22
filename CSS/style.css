@@ -1,0 +1,70 @@
+html{
+    width: 100%;
+    overflow-x: hidden;
+}
+body{
+    width: 100%;
+    overflow-x: hidden;
+    padding-bottom: 50px;
+    background-color: #04151f;
+}
+.about-techsias-div{
+    margin: 20px;
+    padding: 30px;
+    border-radius: 50px;
+    background-color: #0D1B2A;
+    font-family: 'Rosarivo', serif;
+}
+.about-card-div{
+    background-color: #0D1B2A;
+    border-radius: 40px;
+    padding: 20px;
+    font-family: 'Rosarivo', serif;
+}
+#about-shetech-logo{
+    background-image: url('../Assets/Images/she\ tech\ logo\ 1.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-y: center;
+    background-position-x: center;
+}
+#about-tinkerhub-logo{
+    background-image: url('../Assets/Images/TinkerHub\ logo\ 1.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-y: center;
+    background-position-x: center;
+}
+.about-outer-div{
+    background-color: #04151f;
+    color: white;
+    font-size: .7rem;
+}
+.about-text{
+   padding-left: 3rem;
+}
+#Capa_1{
+    height: 3.5rem;
+    transform: translate(-50%);  
+    fill: rgba(255, 255, 255, .4);
+    background-color: rgba(255, 255, 255, .1);
+    padding: .8rem;
+    border-radius: 50%;
+}
+#svg1{
+	position: relative;
+	left: 2.5rem;
+	top: .4rem;
+}
+.about-tinkerhub-text{
+    padding-top: .5rem;
+}
+.about-text-div{
+    height: 2.5rem;
+    background-color:#0D1B2A;
+    
+}
+.about-techsias-para{
+font-size: .8rem;
+padding-top: 1rem;
+}
